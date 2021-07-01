@@ -6,6 +6,6 @@
 
 </head>
 <body style="background-color:aqua;text-align:center">
-<h1>Congratulations!!! welcome o devops</h1>
+<h1>Congratulations!!! welcome to devops world</h1>
 </body>
 </html>
