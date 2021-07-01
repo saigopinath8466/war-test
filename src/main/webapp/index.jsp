@@ -6,6 +6,6 @@
 
 </head>
 <body style="background-color:aqua;text-align:center">
-<h1>Congratulations!!! Welcome this is saigopinath and i am very intelligent in the whole world, and no one like me in the world and my brother srihari is also very intelligent</h1>
+<h1>Congratulations!!! welcome o devops</h1>
 </body>
 </html>
