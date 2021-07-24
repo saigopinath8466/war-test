@@ -2,10 +2,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>DevOps World</title>
+<title>Welcome to DevOps World</title>
 
 </head>
 <body style="background-color:aqua;text-align:center">
-<h1>Congratulations!!! welcome to devops world, this is devops team, welcomes you</h1>
+<h1>Congratulations welcome all</h1>
 </body>
 </html>
